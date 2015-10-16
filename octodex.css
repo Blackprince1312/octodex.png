@@ -1,0 +1,39 @@
+.octadex{list-style:none;
+}
+.octocat{list-style:none;
+  position:relative;
+left: 0px}
+
+img {
+  float: left;
+}
+
+img {
+  border: 2px solid grey;
+  height: 330px;
+  width: 400px;
+  margin: 3px;
+  box-sizing: border-box;
+}
+
+.image-number {
+  float: left;
+  margin: 350px -400px;
+  color:grey;
+}
+
+.image-caption {
+  float: left;
+  margin: 350px -280px;
+    color:grey;
+}
+.image-footer
+
+.authors img{width:30px;
+  height:30px;
+  float:left;
+  display:inline-block;
+}
+  
+
+  
